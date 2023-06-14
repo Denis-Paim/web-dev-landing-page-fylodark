@@ -393,7 +393,7 @@ li{
     }
 
     .header-section{
-        background-image: url("/images/bg-curvy-mobile.svg");
+        background-image: url("../images/bg-curvy-mobile.svg");
         background-repeat: no-repeat;
         
         padding: 1px 15px;
