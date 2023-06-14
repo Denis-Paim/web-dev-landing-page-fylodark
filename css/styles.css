@@ -206,6 +206,10 @@ img .img-icons{
     top: 2240px;
 }
 
+.form-control{
+    padding-left: 30px;
+}
+
 .card{
     margin: auto;
     background-color: hsl(217, 43%, 12%);
