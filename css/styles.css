@@ -199,6 +199,13 @@ img .img-icons{
     margin-bottom: 0;
 }
 
+.quotes{
+    position: absolute;
+    z-index: 0;
+    left: 175px;
+    top: 2240px;
+}
+
 .card{
     margin: auto;
     background-color: hsl(217, 43%, 12%);
@@ -553,6 +560,18 @@ li{
         padding-top: 0px;
         padding-left: 25px;
     }
+    
+    .quotes{
+        left: 40px;
+        top: 2830px;
+    }
 
+}
+
+@media (min-width: 1441px){
+    .quotes{
+        left: 220px;
+        top: 2215px;
+    }
 }
 
